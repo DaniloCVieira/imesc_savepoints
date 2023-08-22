@@ -1,6 +1,5 @@
-# iMESc
-
-Hybrid machine learning algorithms accurately predict ecological communities
+# Hybrid machine learning algorithms accurately predict ecological communities
+Authors: Luciana Erika Yaginuma, Fabiane Gallucci, Danilo Candido Vieira, Paula Foltran Gheller, Simone Brito, Thaïs Navajas Corbisier, Gustavo Fonseca
 
 Here are the savepoints of the hybrid model proposed in the manuscript "Hybrid machine learning algorithms accurately predict ecological communities".
 The savepoints can be uploaded in the application iMESc - An Interactive Machine Learning App for Environmental Science
@@ -25,6 +24,9 @@ iMESc_help [https://danilocvieira.github.io/iMESc_help/]
 
 - Savepoint_Environ_LIP_PRTCHO_SDSed.rds
 		Savepoint of the models of the environmental variables Lipids, ratio Protein/Carbohydrate, and Standard Deviation of grain size of the sediment.
+
+- Savepoint_Environ_CSand_C13_CaCO3.rds
+		Savepoint of the models of the environmental variables ratio Coarse Sand, delta 13C, and Carbonate.
 
 - Savepoint_Environ_ChlaPhaeo_CHO_FSand.rds
 		Savepoint of the models of the environmental variables ratio Chlorophyll-a/Phaeopigments, Carbohydrates, and Fine Sand.
