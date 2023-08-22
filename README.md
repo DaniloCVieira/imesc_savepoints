@@ -1,2 +1,2 @@
 # iMESc savepoints
-This repository is dedicated to storing the savepoints generated in iMESc, organized in folders titled with the name of the author's work
+This repository has been established to manage the savepoints generated within [iMESc](https://github.com/DaniloCVieira/iMESc). It is systematically organized into folders, with each folder being titled according to the name of the author's work.
