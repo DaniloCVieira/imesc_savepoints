@@ -1,4 +1,4 @@
-# Structured machine learning modeling for deep-sea benthic
+# Structured machine learning modeling to support conservation of deep-sea benthic biodiversity
 
 # biodiversity: validating simulations against real data.
 
