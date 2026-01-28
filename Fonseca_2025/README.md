@@ -1,7 +1,5 @@
 # Structured machine learning modeling to support conservation of deep-sea benthic biodiversity
 
-# biodiversity: validating simulations against real data.
-
 ### Gustavo Fonseca et al.\[^1]
 
 \[^1]: Instituto do Mar, Universidade Federal de São Paulo
